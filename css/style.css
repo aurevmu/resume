@@ -28,6 +28,10 @@ h6 {
   color: #999;
 }
 
+#projects {
+  background-color: #f3f3f3;
+}
+
 h1 {
   font-size: 40px;
   color: #f5a623;
@@ -134,7 +138,7 @@ a {
 }
 
 .dark-gray {
-  background: 
+  background:
 }
 
 /* TODO: Replace with image later */
