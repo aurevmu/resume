@@ -218,7 +218,7 @@ projects.display = function() {
             var formattedImage = HTMLprojectImage.replace("%data%", projects.projects[project].images[image]);
             $(".project-entry:last").append(formattedImage);
         });
-    })
+    });
 };
 
 bio.display();
